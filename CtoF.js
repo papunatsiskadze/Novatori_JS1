@@ -1,3 +1,3 @@
-let Celsius = 30;
-let ConvertedF = Celsius * 1.8 + 32;
-console.log(ConvertedF);
+let C = 30;
+let F = C*1.8+32;
+console.log(F);
